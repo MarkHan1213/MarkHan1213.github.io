@@ -6,7 +6,7 @@ email: markhan1213@gmail.com
 description: "那追着公车的少年，如今西装笔挺体面"
 keyword: "Android,博客,手机"
 url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "以大多数人的努力程度之低，根本轮不到拼天赋"
-sidebar-avatar: /blog/img/avatar-mark.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-mark.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
